@@ -65,3 +65,10 @@ graph LR
     H[📅 DOJ Data] --> F
     C --> I[📈 Analysis Sheet]
     D --> J[📌 Action Plan]
+
+🏗️ Dashboard Architecture
+The solution consists of 9 interconnected sheets across 4 functional layers:
+
+| Sheet | Purpose | Key Features |
+|:------|:--------|:-------------|
+| **Attendance Files** | Raw data ingestion point | 13 fields: Name, Team Leader, Month, Year, EL, Half EL, UPA Days, Working Days, UPA%, Actual Working Days, Absence Days, Absence Spells, Bradford Factor Score |
