@@ -31,7 +31,12 @@ Instead of a one-time report, I built **a fully automated, interactive dashboard
 - Generates automated risk categorization and recommended actions
 - Includes a strategic intervention framework to reduce absenteeism
 
-**What started as a simple data request became an official project** — adopted by the team for ongoing workforce analytics and absenteeism reduction.
+**What started as a simple data request evolved through three iterative phases:**
+- **Phase 1:** Core dashboard with Power Query automation and UPA% tracking
+- **Phase 2:** Bradford Factor risk scoring engine added when new requirements emerged
+- **Phase 3:** Tenure-based DOJ analysis for deeper workforce insights
+
+The project was ultimately **adopted as an official team initiative** for ongoing workforce analytics and absenteeism reduction.
 
 ---
 
