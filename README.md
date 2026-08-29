@@ -327,7 +327,8 @@ workforce-absenteeism-dashboard/
     ├── presentation-summary.md
     └── faq.md
 ```
-
+> 📌 **Note:** An anonymized sample dataset will be added soon for reference.
+> No real employee or company data will be included.
 ---
 
 ## 🎯 What Makes This Project Unique
